@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TheArchitect123/TitanSocket"><img src="./kotlin.jpg" align="center" width=350/></a>
+    <a href="https://github.com/TheArchitect123/KmpPermissions"><img src="./kotlin.jpg" align="center" width=350/></a>
 </p>
 
 <p align="center">
-A kotlin multiplatform library to manage sockets with support for both iOS & Android
+An extensive kotlin multiplatform library to manage permissions on iOS & Android
 
 </p>
 <br/>
